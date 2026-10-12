@@ -1,4 +1,4 @@
-# BJUT-ipv6
+# BJUT-ipv6-vps-config
 
 ## 1. 检查 VPS 双栈是否正常
 
